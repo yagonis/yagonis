@@ -3,8 +3,10 @@
 [![Blog](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](instagram.com/yagocbritto)
 
 ![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagonis&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yagonis=anuraghazra&stats_format=bytes)
 
-### Tecnologias que uso no dia a dia!
+### 🖥️ Tecnologias e Ferramentas! 
+<hr>
 <div style = "display: inline-block"> <br> <img align = "center" alt = "CSS" src = "https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
 <img align = "center" alt = "JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
