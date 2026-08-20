@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yagocbritto)
 
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagonis&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagonis&layout=compact&theme=onedark) 
-
 ### 🖥️ Tecnologias e Ferramentas! 
 <hr>
 <div style = "display: inline-block"> <br> <img align = "center" alt = "CSS" src = "https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
